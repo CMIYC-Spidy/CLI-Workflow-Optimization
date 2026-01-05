@@ -1,7 +1,7 @@
 <h1> <b>CLI Environment Customization </b></a></h1>
 
 <div style="background-color: #1e1e1e; padding: 15px; border-radius: 5px; border-left: 5px solid #007acc;">
-  <strong>Tool's Used:</strong>
+  <strong>Tools Used:</strong>
   <ul>
     <li><b> <a href="https://github.com/ohmyzsh/ohmyzsh"> Oh My Zsh</b></li>
     <li><b> <a href="https://github.com/romkatv/powerlevel10k">PoweLevel10k</b></li>
